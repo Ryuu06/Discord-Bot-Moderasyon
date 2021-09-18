@@ -1,0 +1,61 @@
+{
+    "bot": {
+        "owner": "704751383961665587",
+        "botdurum": "HyperFamily Sunucumuza Hoşgeldin",
+        "prefix": ".",
+        "GuildID": "847911788452380672",
+        "forceban": "885635426474410015"
+    },
+    "penals": {
+        "ban": {
+            "staff": "865551038659690516",
+            "log": "848702626433335316",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "878177964175540264",
+            "roles": "878420565768151151",
+            "log": "885105849079595009",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "865552998485852190",
+            "roles": "848295331225141298",
+            "log": "865552918937337866",
+            "limit": 5
+        },
+      "points": {
+        "mutepoints": "10",
+        "banpoints": "100",
+        "jailpoints": "25"
+      }
+    },
+    "logs": {
+        "messagelog": "886913241735917608",
+        "voicelog": "SES LOG ID",
+        "taglog": "881413963533942846"
+
+    },
+    "roles": {
+        "boosterrole": "BOOSTER ROLÜ ID",
+        "viprole": "VİP ROLÜ ID",
+        "designerrole": "TASARIMCI ROLÜ ID",
+        "musiciansrole": "MÜZİSYEN ROLÜ ID",
+        "familyrole": "863188228123131924"
+    },
+    "meeting": {
+        "katıldı": "KATILDI ROLÜ ID",
+        "yetkili": "KATILDI YETKİLİ ROL ID",
+        "meetingchannel": "864906990652358666"
+    },
+    "channels": {
+        "chat": "875863378667663360",
+        "voicechannel": "881414534672289833"
+    },
+    "parents": {
+        "publicparents": "847911788452380674"
+    },
+    "registration": {
+        "GuildTag": "❆"
+    }
+}
